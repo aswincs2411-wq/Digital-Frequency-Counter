@@ -39,6 +39,8 @@ The current prototype exhibits an approximate positive measurement error of 8 Hz
 - Add a third seven-segment display.
 - Improve measurement accuracy and stability.
 
+- [Future improvements](Future-Improvements.md)
+
 ---
 
 *This project is a work in progress. Documentation and circuit improvements will be added as development continues.*
