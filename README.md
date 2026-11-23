@@ -23,6 +23,8 @@ The current prototype uses an NE555 timer for generating a 1 Hz timing reference
 - Seven-segment displays
 - Resistors and capacitors
 
+- [Hardware Documentation](Hardware.md)
+
 ## Current Status
 
 **Prototype – Under Development**
