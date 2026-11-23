@@ -8,6 +8,12 @@ This project aims to measure the frequency of an input signal and display the re
 
 The current prototype uses an NE555 timer for generating a 1 Hz timing reference, an LM393 comparator for input signal conditioning, CD4093 logic gates, and CD4026 counter/display driver ICs.
 
+## Prototype
+
+![Frequency Counter](Circuit_Schematics.jpg)
+
+![Frequency Counter](Prototype_working.jpg)
+
 ## Hardware Used
 
 - NE555 Timer IC
